@@ -5,10 +5,10 @@ Webdeveloper
 I've started studying HTML, but today, I develope full websites with
 HTML, CSS and Javascript.
 
-I code since october 2021, and today I study trough HarvardX and Alura.*
+I code since october 2021, and today I study trough HarvardX and Alura.
 🌍  I'm based in
-Brazil*
-🧠  I'm learning Bootstrap*
+Brazil
+🧠  I'm learning Bootstrap
 ⚡  I study assiduously, and also work full time. I like to learn with other people,
 but mostly by my own. I'm not a fan of face-to-face classes, and I learn many things out of pure curiosity and interest,
 and also through books, (I love to read), and I feel good when I have the freedom to work in a team and exchange
