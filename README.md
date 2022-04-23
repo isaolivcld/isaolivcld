@@ -37,7 +37,8 @@ to read), and I feel good when I have the freedom to work in a team and exchange
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
             width="36" height="36" alt="Figma" /></a>
-
+</p>
+<p>
 
     <a href="https://www.github.com/isaolivcld" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
@@ -55,3 +56,4 @@ to read), and I feel good when I have the freedom to work in a team and exchange
         alt="GitHub Commits Graph" /></a><a href="https://github.com/isaolivcld" align="left"><img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaolivcld&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages"
         alt="Top Languages" /></a>
+</p>
