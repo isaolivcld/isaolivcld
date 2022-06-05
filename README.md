@@ -7,7 +7,7 @@ HTML, CSS and Javascript.<br>
 
 I code since october 2021, and today I study trough HarvardX and Alura.<br>
 🌍  I'm based in Brazil <br>
-🧠  I'm learning Bootstrap<br>
+🧠  I'm learning React<br>
 ⚡  I study assiduously, and also work full time. I like to learn with other people,
 but mostly by my own. I'm not a fan of face-to-face classes, and I learn many things out of pure curiosity and interest,
 and also through books, (I love to read), and I feel good when I have the freedom to work in a team and exchange
